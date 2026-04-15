@@ -45,6 +45,7 @@
     "5m缓存创建价格：{{symbol}}{{price}} / 1M tokens": "5m cache creation price: {{symbol}}{{price}} / 1M tokens",
     "5m缓存创建：{{tokens}} / 1M * 模型倍率 {{modelRatio}} * 5m缓存创建倍率 {{cacheCreationRatio5m}} * {{ratioType}} {{ratio}} = {{amount}}": "5m cache creation: {{tokens}} / 1M * model ratio {{modelRatio}} * 5m cache creation ratio {{cacheCreationRatio5m}} * {{ratioType}} {{ratio}} = {{amount}}",
     "8 - 高": "8 - High",
+    "阿里巴巴": "Alibaba",
     "AGPL v3.0协议": "AGPL v3.0 License",
     "AI 对话": "AI Chat",
     "AI模型测试环境": "AI model testing environment",
