@@ -106,7 +106,7 @@ const PageLayout = () => {
     loadStatus().catch(console.error);
     let systemName = getSystemName();
     if (systemName) {
-      document.title = systemName;
+      document.title = 'LowCost API – Budget-Friendly LLM & AI API Service';
     }
     let logo = getLogo();
     if (logo) {
