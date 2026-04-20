@@ -106,7 +106,7 @@ const PageLayout = () => {
     loadStatus().catch(console.error);
     let systemName = getSystemName();
     if (systemName) {
-      document.title = 'LowCost API – Budget-Friendly LLM & AI API Service';
+      document.title = 'LowCost API – Llama, Qwen, Gemma & Mistral Open LLM API';
     }
     let logo = getLogo();
     if (logo) {
